@@ -1,0 +1,16 @@
+{
+  "name": "Smart BMI Calculator",
+  "short_name": "BMI Calc",
+  "description": "Calculate your Body Mass Index instantly with multiple units support",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#8b5cf6",
+  "theme_color": "#ec4899",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+} 
